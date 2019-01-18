@@ -1,0 +1,217 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/elmermtz/Dev/trydjango1-11/src/profiles/admin.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/profiles/forms.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/profiles/models.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/profiles/templates/profiles/snippet/follow_form.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/profiles/templates/profiles/user.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/profiles/urls.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/profiles/utils.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/profiles/views.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/templates/restaurants/detail-update.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/templates/restaurants/restaurantlocation_list.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/admin.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/registration/register.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/registration/login.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/snippets/form-snippet.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/snippets/nav.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/models.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/templates/restaurants/form.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/form.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/urls.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/validators.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/views.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/forms.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/menus/templates/menus/item_list.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/menus/templates/menus/detail-update.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/menus/templates/menus/item_detail.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/menus/admin.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/menus/forms.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/menus/models.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/menus/urls.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/menus/templates/menus/home-feed.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/menus/views.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/muypicky/settings/base.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/muypicky/urls.py",
+		"/home/elmermtz/.bashrc",
+		"/home/elmermtz/Dev/trydjango1-11/src/profiles/shell_commands.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/home.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/utils.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/muypicky/settings/__init__.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/muypicky/settings/local.py",
+		"/home/elmermtz/Dev/trydjango1-11/.gitignore",
+		"/home/elmermtz/Dev/trydjango1-11/src/muypicky/settings/production.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/muypicky/old_settings.py",
+		"/home/elmermtz/Dev/trydjango1-11/src/restaurants/templates/restaurants/restaurantlocation_detail.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/snippets/sidebar.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/snippets/js.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/snippets/css.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/contact.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/base.html",
+		"/home/elmermtz/Dev/trydjango1-11/src/templates/about.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "locallibrary.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
