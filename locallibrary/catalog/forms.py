@@ -1,4 +1,5 @@
 from django import forms
+from .models import Book
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 from django.core.exceptions import ValidationError
@@ -37,3 +38,9 @@ class RenewBookForm(forms.Form):
 
         # Remember to always return the cleaned data.
         return data
+
+class CreateBook(forms.ModelForm):
+
+	class Meta:
+		model = Book
+		fields = ('title', 'author', 'summary', 'isbn', 'genre',)

@@ -31,7 +31,7 @@ urlpatterns = [
     #url(r'^register/$', RegisterView.as_view(), name='register'),
     url(r'^users/', include('users.urls')),
     url(r'^users/', include('django.contrib.auth.urls')),
-    #url('', RedirectView.as_view(url='/catalog/', permanent=True)),
+    #url('', RedirectView.as_view(url='/catalog/', permanen
 ]
 
 urlpatterns+= static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
